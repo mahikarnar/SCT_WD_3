@@ -110,4 +110,4 @@ The Tic-Tac-Toe game features:
 🩷 **This project showcases modern web development skills, game development concepts, and interactive user experience design**
 
 **Hashtags included in my LinkedIn post submissions:**  
-`#SkillCraftTechnology #internship #WebDevelopment #TicTacToe #GameDevelopment`
+`#SkillCraftTechnology #internship #WebDevelopment #TicTacToeGame #GameDevelopment`
