@@ -1,5 +1,5 @@
 # SCT_WD_3 : Tic-Tac-Toe Web Application
-SkillCraft - Web Development Internship Task 03
+SkillCraft Technology - Web Development Internship Task 03
 
 *A fully interactive Tic-Tac-Toe game built with JavaScript, featuring both Player vs Player and Player vs Computer modes, with a beautiful chocolate-themed design and comprehensive AI opponent.*
 
